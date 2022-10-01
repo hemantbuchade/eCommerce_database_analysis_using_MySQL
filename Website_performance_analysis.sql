@@ -8,7 +8,7 @@ WHERE website_pageview_id < 1000
 GROUP BY pageview_url
 ORDER BY pvs DESC;
 
--- TOP ENTRY PAGES
+-- TOP ENTRY PAGES 
 CREATE TEMPORARY TABLE first_pageview
 SELECT
 		website_session_id, 
