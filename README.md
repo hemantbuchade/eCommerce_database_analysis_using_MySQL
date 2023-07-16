@@ -14,7 +14,7 @@
 
 7. Product Level Website Analysis: Analyzed which products generated the most attention when displayed on the multi-product page by studying the conversion funnel of every product. Analyzed the impact of new products on website conversion rate.
 
-8. Cross-selling Products: Analyzed which products customers are most likely to purchase together and thus offer smart product recommendations. Understood impact of cross-selling on conversion rates and revenue.
+8. Cross-selling Products: Analyzed which products customers are most likely to purchase together and thus offer smart product recommendations. Understood impact of cross-selling on conversion rates and revenue
 
 9. Product refund Analysis: Studied the refund rates according to products, to determine if the supplier is providing quality materials. The refund rate for cheaper products is less compared to costlier products.
 
